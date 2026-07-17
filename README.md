@@ -347,14 +347,7 @@ If you found this project valuable, please consider giving it a ⭐ on GitHub.
 Your support helps improve future open-source analytics projects.
 
 ---
-
-# 📜 License
-
-This project is licensed under the **MIT License**.
-
-You are welcome to use it for learning, research, and portfolio development.
-
----
+ 
 
 <p align="center">
 

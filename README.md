@@ -1,6 +1,7 @@
 # 🚀 Semiconductor Industry Analysis Dashboard
 
 > **A Power BI-inspired Business Intelligence Project for Industry Analysis using the GCPS Framework**
+<img width="1516" height="979" alt="ChatGPT Image Jul 18, 2026, 12_24_35 AM" src="https://github.com/user-attachments/assets/9cfbcacb-c842-427c-ac53-125477325706" />
 
 <p align="center">
 

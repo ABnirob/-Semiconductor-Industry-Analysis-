@@ -46,19 +46,21 @@ This project aims to:
 
 ## Dashboard 1 – Industry Overview
 
-<img src="Dashboard/Dashboard_1_Industry_Overview.png" width="100%">
+<img width="1520" height="1010" alt="1" src="https://github.com/user-attachments/assets/36842ea2-ed1c-4ec8-acae-367a23ba2f25" />
 
 ---
 
 ## Dashboard 2 – Risk & Competition Analysis
 
-<img src="Dashboard/Dashboard_2_Risk_Competition.png" width="100%">
+<img width="1526" height="1015" alt="2" src="https://github.com/user-attachments/assets/7e12bfe4-86e6-4a4c-9ce4-b17a6d5720d4" />
+
 
 ---
 
 ## Dashboard 3 – Value Chain Analysis
 
-<img src="Dashboard/Dashboard_3_Value_Chain.png" width="100%">
+<img width="1525" height="1014" alt="3" src="https://github.com/user-attachments/assets/0eb8dc61-d8f0-45c6-ae3a-18f76923e3b5" />
+
 
 </p>
 

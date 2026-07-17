@@ -1,0 +1,51 @@
+id,name,industry,country,revenue,cogs,netIncome,marketCap,employees,rAndD
+SC01,"Nvidia Corp","Semiconductors & Electronics","United States",96310,23890,52990,3120000,29600,11200
+SC02,"TSMC","Semiconductors & Electronics","Taiwan",75880,34150,30120,840000,76000,5800
+SC03,"Intel Corp","Semiconductors & Electronics","United States",54200,32520,1680,110000,124800,16500
+SC04,"Samsung Electronics","Semiconductors & Electronics","South Korea",198500,136200,11400,360000,270000,22100
+SC05,"ASML Holding","Semiconductors & Electronics","Netherlands",29600,14450,8430,380000,42400,4100
+SC06,"Broadcom Inc","Semiconductors & Electronics","United States",42600,13800,11580,780000,20000,5300
+SC07,"AMD","Semiconductors & Electronics","United States",22680,11250,850,260000,26000,5900
+SC08,"Qualcomm Inc","Semiconductors & Electronics","United States",35820,15720,7230,190000,50000,8800
+SC09,"Tokyo Electron","Semiconductors & Electronics","Japan",15400,8470,3100,95000,17200,1400
+SC10,"MediaTek","Semiconductors & Electronics","Taiwan",14200,7380,2540,52000,22000,1900
+PH01,"Eli Lilly & Co","Pharmaceuticals & Biotech","United States",34120,7120,6240,810000,43000,9300
+PH02,"Novo Nordisk","Pharmaceuticals & Biotech","Netherlands",33700,5390,12100,590000,64000,4800
+PH03,"Pfizer Inc","Pharmaceuticals & Biotech","United States",58500,23400,2130,160000,88000,10700
+PH04,"Roche Holding","Pharmaceuticals & Biotech","Netherlands",64800,16200,13200,240000,101000,14100
+PH05,"Merck & Co","Pharmaceuticals & Biotech","United States",60100,16830,3650,290000,72000,13600
+PH06,"AbbVie Inc","Pharmaceuticals & Biotech","United States",54300,17380,4860,315000,50000,7400
+PH07,"Johnson & Johnson","Pharmaceuticals & Biotech","United States",85200,26410,13300,380000,131000,15100
+PH08,"AstraZeneca","Pharmaceuticals & Biotech","Germany",45800,8240,5960,210000,89000,10900
+PH09,"Novartis","Pharmaceuticals & Biotech","Netherlands",48600,14580,8620,205000,76000,9000
+PH10,"Moderna Inc","Pharmaceuticals & Biotech","United States",6800,4760,-4700,32000,5600,4500
+AV01,"Tesla Inc","Automotive & Electric Vehicles","United States",96770,79120,15000,740000,140000,3960
+AV02,"Toyota Motor","Automotive & Electric Vehicles","Japan",295000,236000,33100,290000,375000,8900
+AV03,"BYD Company","Automotive & Electric Vehicles","China",85000,68000,4200,98000,570000,5200
+AV04,"Volkswagen Group","Automotive & Electric Vehicles","Germany",348000,288760,19400,65000,684000,15800
+AV05,"Ford Motor","Automotive & Electric Vehicles","United States",176200,151500,4330,45000,177000,8200
+AV06,"General Motors","Automotive & Electric Vehicles","United States",171800,147700,10100,52000,163000,9800
+AV07,"BMW Group","Automotive & Electric Vehicles","Germany",168000,137760,12900,58000,154000,7800
+AV08,"Mercedes-Benz","Automotive & Electric Vehicles","Germany",165000,128700,15400,71000,166000,8100
+AV09,"Li Auto","Automotive & Electric Vehicles","China",17200,13410,1620,25000,31000,1500
+AV10,"Rivian Automotive","Automotive & Electric Vehicles","United States",4430,6380,-5400,11000,16000,2100
+EC01,"Amazon.com Inc","E-Commerce & Digital Retail","United States",574800,304600,30400,1950000,1525000,85200
+EC02,"Alibaba Group","E-Commerce & Digital Retail","China",130200,81300,11200,185000,220000,7300
+EC03,"Pinduoduo (PDD)","E-Commerce & Digital Retail","China",34800,13200,8400,165000,13000,1500
+EC04,"MercadoLibre","E-Commerce & Digital Retail","United States",14500,7540,1200,92000,58000,1400
+EC05,"Shopify Inc","E-Commerce & Digital Retail","United States",7060,3560,130,104000,8300,1700
+EC06,"JD.com","E-Commerce & Digital Retail","China",151000,128500,3400,40000,517000,2300
+EC07,"eBay Inc","E-Commerce & Digital Retail","United States",10100,2820,2770,28000,11000,1300
+EC08,"Sea Limited (Shopee)","E-Commerce & Digital Retail","Singapore",13100,7330,160,44000,67000,1100
+EC09,"Coupang","E-Commerce & Digital Retail","South Korea",24400,18100,1360,36000,63000,800
+EC10,"Wayfair Inc","E-Commerce & Digital Retail","United States",12000,8400,-730,6000,14000,500
+RE01,"NextEra Energy","Renewable Energy & Cleantech","United States",28100,12400,7310,148000,16800,300
+RE02,"First Solar","Renewable Energy & Cleantech","United States",3300,2200,830,22000,6700,180
+RE03,"Enphase Energy","Renewable Energy & Cleantech","United States",2300,1240,430,15000,3150,250
+RE04,"Vestas Wind Systems","Renewable Energy & Cleantech","Netherlands",16800,14900,80,24000,30000,400
+RE05,"Orsted A/S","Renewable Energy & Cleantech","Netherlands",11400,9100,-2100,21000,8000,120
+RE06,"Canadian Solar","Renewable Energy & Cleantech","Netherlands",7600,6380,270,1200,20000,80
+RE07,"JinkoSolar Holding","Renewable Energy & Cleantech","China",15300,13150,490,1500,46000,150
+RE08,"SolarEdge Technologies","Renewable Energy & Cleantech","United States",2600,1980,30,2500,5300,310
+RE09,"Brookfield Renewable","Renewable Energy & Cleantech","United States",5100,2200,-120,17000,3400,50
+RE10,"Plug Power Inc","Renewable Energy & Cleantech","United States",890,1420,-1370,1100,3800,210
